@@ -478,7 +478,6 @@ WCSTNet is also markedly lighter than the GNN-based competitors — ≈98K param
 ```
 wcstnet-parkinsons-gait-detection/
 │
-├── main.tex                            # Full manuscript source (IEEE-style)
 ├── references.bib                      # Bibliography
 │
 ├── fig01_vgrf_signal_protocol.png
